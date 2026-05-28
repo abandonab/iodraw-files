@@ -80,8 +80,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="否正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.12;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.12;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0005" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="806" />
               <mxPoint x="210" y="810" />
@@ -90,6 +90,7 @@
             </Array>
             <mxPoint x="208.00000000000006" y="806.5" as="sourcePoint" />
             <mxPoint x="208.00000000000006" y="1334.8799999999999" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-9" target="4BZMMOuvT7bIm_SPmLlp-11">
