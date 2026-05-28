@@ -64,16 +64,17 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-32" value="是异常" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-8" target="4BZMMOuvT7bIm_SPmLlp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.12;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="209" y="809.5" />
-              <mxPoint x="209" y="813.5" />
-              <mxPoint x="38" y="813.5" />
-              <mxPoint x="38" y="1338.5" />
+              <mxPoint x="209" y="810" />
+              <mxPoint x="209" y="814" />
+              <mxPoint x="150" y="814" />
+              <mxPoint x="150" y="1260" />
+              <mxPoint x="440" y="1260" />
             </Array>
             <mxPoint x="207.00000000000006" y="810" as="sourcePoint" />
-            <mxPoint x="207.00000000000006" y="1338.3799999999999" as="targetPoint" />
+            <mxPoint x="440" y="1230" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
