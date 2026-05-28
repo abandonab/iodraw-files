@@ -67,13 +67,13 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.12;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="806" />
-              <mxPoint x="210" y="810" />
-              <mxPoint x="39" y="810" />
-              <mxPoint x="39" y="1335" />
+              <mxPoint x="209" y="809.5" />
+              <mxPoint x="209" y="813.5" />
+              <mxPoint x="38" y="813.5" />
+              <mxPoint x="38" y="1338.5" />
             </Array>
-            <mxPoint x="208.00000000000006" y="806.5" as="sourcePoint" />
-            <mxPoint x="208.00000000000006" y="1334.8799999999999" as="targetPoint" />
+            <mxPoint x="207.00000000000006" y="810" as="sourcePoint" />
+            <mxPoint x="207.00000000000006" y="1338.3799999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -93,12 +93,8 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-36" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-11" target="4BZMMOuvT7bIm_SPmLlp-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.78;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-12" target="4BZMMOuvT7bIm_SPmLlp-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="325" y="1304" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;fontSize=18;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-12" target="4BZMMOuvT7bIm_SPmLlp-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-38" value="继续检测" style="startArrow=none;endArrow=block;exitX=1;exitY=0.23;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
