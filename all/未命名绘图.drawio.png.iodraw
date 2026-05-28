@@ -25,9 +25,6 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-9" value="保存异常记录+截图" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="350" y="840" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-10" value="下一帧" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="394" y="1190" width="108" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-11" value="是否触发告警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="375.5" y="910" width="145" height="145" as="geometry" />
         </mxCell>
@@ -64,11 +61,10 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-32" value="是异常" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-8" target="4BZMMOuvT7bIm_SPmLlp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-33" value="正常" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;entryX=0.024;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-10" target="4BZMMOuvT7bIm_SPmLlp-10">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="209" y="810" />
-              <mxPoint x="209" y="814" />
+              <mxPoint x="380" y="814" />
               <mxPoint x="150" y="814" />
               <mxPoint x="150" y="1220" />
               <mxPoint x="400" y="1220" />
@@ -112,6 +108,20 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-55" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" target="4BZMMOuvT7bIm_SPmLlp-10">
+          <mxGeometry x="-0.0005" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="810" />
+              <mxPoint x="209" y="814" />
+            </Array>
+            <mxPoint x="207.00000000000006" y="810" as="sourcePoint" />
+            <mxPoint x="400" y="1220" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-10" value="下一帧" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1190" width="108" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
