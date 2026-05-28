@@ -23,7 +23,7 @@
           <mxGeometry x="260" y="630" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-8" value="异常判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="729" width="113" height="113" as="geometry" />
+          <mxGeometry x="209" y="750" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-9" value="保存异常记录+截图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="165" y="914" width="196" height="49" as="geometry" />
@@ -70,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.19;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-7" target="4BZMMOuvT7bIm_SPmLlp-8">
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-7" target="4BZMMOuvT7bIm_SPmLlp-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-32" value="是异常" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-8" target="4BZMMOuvT7bIm_SPmLlp-9">
