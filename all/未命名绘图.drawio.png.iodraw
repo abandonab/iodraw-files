@@ -26,7 +26,7 @@
           <mxGeometry x="399" y="750" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-10" value="下一帧" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="209" y="1329" width="108" height="49" as="geometry" />
+          <mxGeometry x="443" y="1220" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-11" value="是否触发告警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="424.5" y="820" width="145" height="145" as="geometry" />
@@ -85,7 +85,8 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-35" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.75;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-11" target="4BZMMOuvT7bIm_SPmLlp-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="1206" />
+              <mxPoint x="570" y="950" />
+              <mxPoint x="686" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
