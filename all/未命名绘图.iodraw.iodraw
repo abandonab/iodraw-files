@@ -136,25 +136,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-38" value="继续检测" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0.98;entryY=0.99;rounded=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-10" target="4BZMMOuvT7bIm_SPmLlp-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="465" y="1304" />
-              <mxPoint x="465" y="605" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="4BZMMOuvT7bIm_SPmLlp-38" value="继续检测" style="startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0.98;entryY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-10" target="4BZMMOuvT7bIm_SPmLlp-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-39" value="停止检测" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-10" target="4BZMMOuvT7bIm_SPmLlp-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4BZMMOuvT7bIm_SPmLlp-40" value="离线检测" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="711" y="275" />
-            </Array>
-            <mxPoint x="711" y="532" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-13" target="4BZMMOuvT7bIm_SPmLlp-23">
