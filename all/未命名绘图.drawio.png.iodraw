@@ -98,8 +98,8 @@
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-38" value="继续检测" style="startArrow=none;endArrow=block;exitX=1;exitY=0.75;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="4BZMMOuvT7bIm_SPmLlp-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="526" y="1350" />
-              <mxPoint x="770" y="1350" />
+              <mxPoint x="526" y="1320" />
+              <mxPoint x="770" y="1320" />
               <mxPoint x="770" y="560" />
             </Array>
             <mxPoint x="317" y="1350.27" as="sourcePoint" />
