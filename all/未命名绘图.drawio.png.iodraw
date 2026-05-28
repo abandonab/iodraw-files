@@ -29,7 +29,7 @@
           <mxGeometry x="443" y="1220" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-11" value="是否触发告警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="424.5" y="820" width="145" height="145" as="geometry" />
+          <mxGeometry x="385" y="910" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="4BZMMOuvT7bIm_SPmLlp-12" value="创建告警记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="1020" width="156" height="49" as="geometry" />
